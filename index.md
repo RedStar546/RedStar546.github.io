@@ -4,7 +4,7 @@ This is my home page! My name is Ethan Akahoshi and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/RedStar546.
+My GitHub page is https://github.com/RedStar546
 
 ### CPSC 120
 
